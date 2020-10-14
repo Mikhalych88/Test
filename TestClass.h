@@ -13,4 +13,5 @@ private:
 
 TestClass::TestClass() {
 	value1 = 11;
+	value2 = 22;
 }
