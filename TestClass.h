@@ -12,5 +12,5 @@ private:
 };
 
 TestClass::TestClass() {
-
+	value1 = 11;
 }
