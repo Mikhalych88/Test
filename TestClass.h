@@ -12,6 +12,7 @@ private:
 };
 
 TestClass::TestClass() {
-	value1 = 11;
-	value2 = 22;
+	value1 = 111;
+	value2 = 222;
+	value3 = 333;
 }
